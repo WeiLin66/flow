@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:00:09.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CfxJtD13U8DI-gzBJcpO" version="22.0.8" type="device">
+  <diagram name="第 1 页" id="K0VPaby8aCf18rXMkMr1">
+    <mxGraphModel dx="1195" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lgstK_4Ivz39lZmdmh-5-1" target="lgstK_4Ivz39lZmdmh-5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-1" value="receive cmd from service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lgstK_4Ivz39lZmdmh-5-2" target="lgstK_4Ivz39lZmdmh-5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-2" value="receive cmd from service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lgstK_4Ivz39lZmdmh-5-3" target="lgstK_4Ivz39lZmdmh-5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-3" value="compare cmd name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="333" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lgstK_4Ivz39lZmdmh-5-4" value="return index if cmd was found" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
