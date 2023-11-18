@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-11-16T13:23:38.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZfWm6v4zKgu5QOahn4nX" version="22.1.2" type="device">
+  <diagram name="第 1 页" id="epdn9dtz0wbgZ3hsLgoA">
+    <mxGraphModel dx="1389" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GnMHULoctcMN1TYQuL-o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnMHULoctcMN1TYQuL-o-1" target="GnMHULoctcMN1TYQuL-o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-1" value="AT@SOCKDIAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="118" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GnMHULoctcMN1TYQuL-o-2" target="GnMHULoctcMN1TYQuL-o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-2" value="AT@SOCKCREAT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="118" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnMHULoctcMN1TYQuL-o-3" target="GnMHULoctcMN1TYQuL-o-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-3" value="AT@SOCKCONN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="118" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-6" value="AT@SOCKCLOSE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="118" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-11" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-69.5" y="436" width="495" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GnMHULoctcMN1TYQuL-o-11">
+          <mxGeometry width="495" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-4" value="AT@SOCKREAD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GnMHULoctcMN1TYQuL-o-11">
+          <mxGeometry x="183" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-5" value="AT@SOCKWRITE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GnMHULoctcMN1TYQuL-o-11">
+          <mxGeometry x="23" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-7" value="AT@SOCKDATA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GnMHULoctcMN1TYQuL-o-11">
+          <mxGeometry x="343" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnMHULoctcMN1TYQuL-o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnMHULoctcMN1TYQuL-o-10" target="GnMHULoctcMN1TYQuL-o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
